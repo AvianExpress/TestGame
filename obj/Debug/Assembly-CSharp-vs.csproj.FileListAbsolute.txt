@@ -1,0 +1,15 @@
+C:\Users\Uris\Documents\GitHub\TestGame\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Uris\Documents\GitHub\TestGame\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Uris\Documents\GitHub\TestGame\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Uris\Documents\GitHub\TestGame\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Uris\Documents\GitHub\TestGame\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Uris\Documents\GitHub\TestGame\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Uris\Documents\GitHub\TestGame\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Uris\Documents\GitHub\TestGame\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Uris\Documents\GitHub\TestGame\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Uris\Documents\GitHub\TestGame\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Uris\Documents\GitHub\TestGame\obj\Debug\Assembly-CSharp-vs.csproj.AssemblyReference.cache
+C:\Users\Uris\Documents\GitHub\TestGame\obj\Debug\Assembly-CSharp-vs.csproj.CoreCompileInputs.cache
+C:\Users\Uris\Documents\GitHub\TestGame\obj\Debug\Assembly-CSharp-vs.csproj.CopyComplete
+C:\Users\Uris\Documents\GitHub\TestGame\obj\Debug\Assembly-CSharp.dll
+C:\Users\Uris\Documents\GitHub\TestGame\obj\Debug\Assembly-CSharp.pdb
